@@ -1,5 +1,3 @@
-package Lab;
-
 import java.util.Scanner;
 
 public class InchesToCentimeters {
